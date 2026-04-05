@@ -15,7 +15,8 @@ a:hover {
 menubar {
 	color: #5cf1ff;
 	text-decoration: underline;
-	vertical-align: -webkit-baseline-middle;
+	text-shadow: #000000 1px 0 10px;
+	vertical-align: 100%;
 }
 
 menubar:hover {
