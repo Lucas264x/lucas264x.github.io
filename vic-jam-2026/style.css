@@ -12,6 +12,16 @@ a:hover {
 	text-decoration: none;
 }
 
+a_menubar {
+	color: #5cf1ff;
+	text-decoration: underline;
+	vertical-align: -webkit-baseline-middle;
+}
+
+a_menubar:hover {
+	text-decoration: none;
+}
+
 body {
 	font-size: 12pt;
 	line-height: 1.75em;
