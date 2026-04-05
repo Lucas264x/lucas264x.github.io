@@ -12,14 +12,14 @@ a:hover {
 	text-decoration: none;
 }
 
-menubar {
+#menubar a {
 	color: #5cf1ff;
 	text-decoration: underline;
 	text-shadow: #000000 1px 0 10px;
-	vertical-align: 100%;
+	vertical-align: middle;
 }
 
-menubar:hover {
+#menubar a:hover {
 	text-decoration: none;
 }
 
