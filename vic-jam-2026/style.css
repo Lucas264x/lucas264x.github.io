@@ -12,13 +12,13 @@ a:hover {
 	text-decoration: none;
 }
 
-a_menubar {
+menubar {
 	color: #5cf1ff;
 	text-decoration: underline;
 	vertical-align: -webkit-baseline-middle;
 }
 
-a_menubar:hover {
+menubar:hover {
 	text-decoration: none;
 }
 
