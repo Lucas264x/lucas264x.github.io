@@ -26,8 +26,10 @@ body {
 	font-size: 12pt;
 	line-height: 1.75em;
 	font-family: Arial, sans-serif;
-	background: #333ebd url('https://madebylucas.net/images/3ECO73Y5OEICV66MOXUWWP5VO7IRBHN6.gif') top left;
-	background-size: 10%;
+	background: url('https://madebylucas.net/images/3ECO73Y5OEICV66MOXUWWP5VO7IRBHN6.gif') top left;
+	background-size: 6%;
+	background-color: rgba(10,50,255,.7);
+	background-blend-mode: multiply;
 	color: #e1eaf0;
 }
 
